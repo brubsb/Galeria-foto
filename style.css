@@ -17,28 +17,6 @@ h1 {
 
 p {
     font-size: 20px;
-    text-align: center;
-}
-
-.Foto1 p {
-    font-style: italic;
-    position: absolute;
-    top: 460px;
-    right: 650px;
-}
-
-.Foto2 p {
-    font-style: italic;
-    position: absolute;
-    top: 460px;
-    right: 650px;
-}
-
-.Foto3 p {
-    font-style: italic;
-    position: absolute;
-    top: 460px;
-    right: 650px;
 }
 
 .polaroid {
@@ -80,20 +58,23 @@ p {
   .nome1 {
     font-style: italic;
     position: absolute;
-    top: 49%;
-    right: 47%;
+    top: 86%;
+    margin-left: 37%;
+    z-index: +1;
   }
 
   .nome2 {
     font-style: italic;
     position: absolute;
-    top: 94%;
-    right: 47%;
+    top: 86%;
+    margin-left: 37%;
+    z-index: +1;
   }
 
   .nome3 {
     font-style: italic;
     position: absolute;
-    top: 139%;
-    right: 48%;
+    top: 86%;
+    margin-left: 37%;
+    z-index: +1;
   }
